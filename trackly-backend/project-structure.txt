@@ -1,0 +1,49 @@
+.
+├── __pycache__
+│   ├── auth.cpython-313.pyc
+│   ├── config.cpython-313.pyc
+│   ├── database.cpython-313.pyc
+│   ├── main.cpython-313.pyc
+│   ├── models.cpython-313.pyc
+│   └── schemas.cpython-313.pyc
+├── auth.py
+├── config.py
+├── database.py
+├── main.py
+├── models.py
+├── project-structure.txt
+├── requirements.txt
+├── routes
+│   ├── __pycache__
+│   │   ├── admin.cpython-313.pyc
+│   │   ├── categories.cpython-313.pyc
+│   │   ├── expenses.cpython-313.pyc
+│   │   ├── export.cpython-313.pyc
+│   │   ├── notifications.cpython-313.pyc
+│   │   └── workflow.cpython-313.pyc
+│   ├── admin.py
+│   ├── categories.py
+│   ├── expenses.py
+│   ├── export.py
+│   ├── notifications.py
+│   └── workflow.py
+├── schemas.py
+├── seed.py
+├── services
+│   ├── __pycache__
+│   │   ├── approval.cpython-313.pyc
+│   │   ├── export_utils.cpython-313.pyc
+│   │   ├── ocr.cpython-313.pyc
+│   │   └── openai_llm.cpython-313.pyc
+│   ├── approval.py
+│   ├── export_utils.py
+│   ├── ocr.py
+│   ├── openai_llm.py
+│   └── receipt_service.py
+├── static
+│   └── uploads
+│       ├── 1_0b694ddb196f635bd4cfe2c3305bbfac26c45771.jpeg
+│       ├── 3_0b694ddb196f635bd4cfe2c3305bbfac26c45771.jpeg
+│       └── 4_0b694ddb196f635bd4cfe2c3305bbfac26c45771.jpeg
+├── trackly.db
+└──

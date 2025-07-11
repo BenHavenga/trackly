@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# macOS specific
+.DS_Store
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Pyenv
+.python-version
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.cache
+
+# Logs
+*.log
+
+# MyPy / Pyright
+.mypy_cache/
+.pyright/
+
+# Pipenv
+Pipfile.lock
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# SQLite DB
+*.sqlite3
+
+# Local exports or temp files
+*.csv
+*.xlsx
+*.pdf
+tmp/
